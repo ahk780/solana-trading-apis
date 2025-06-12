@@ -123,10 +123,4 @@ SolanaPortal leverages private multi-region RPC endpoints to ensure consistent l
 ## Contact & Support
 - Telegram Support: [@ahk780](https://t.me/ahk780)
 - Telegram Group: [Join our community](https://t.me/ahk782)
-- GitHub Issues: Report bugs or request features via the [issue tracker](https://github.com/YourRepo/issues).
-
-## Contributing
-Contributions are welcome! Please fork the repository, make your changes, and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+- GitHub Issues: Report bugs or request features via the [issue tracker](mailto:report@solanaportal.io).
